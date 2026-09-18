@@ -1,0 +1,3 @@
+
+Deployed a multi-agent workflow where the planner agent delegates sub-tasks to tool-calling agnets.
+MCP based tool integratio removed most of the manual API glue code from the pipeline.
